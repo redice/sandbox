@@ -1,0 +1,2 @@
+class Dclass:
+  pass
