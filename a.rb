@@ -1,0 +1,2 @@
+class Aclass:
+  pass
